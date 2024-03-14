@@ -1,0 +1,17 @@
+syslog
+cups-pk-helper
+ironman
+thor
+captainamerica
+blackwidow
+captainmarvel
+spiderman
+hawkeye
+hulk
+doctorstrange
+blackpanther
+starlord
+drax
+gamora
+rocket
+groot
